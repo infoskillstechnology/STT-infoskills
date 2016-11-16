@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="TypographyDashes">
+    <!-- Please refer to http://oxford-portal.azurewebsites.net/doc/general/subscription-key-mgmt to get your subscription key -->
+    <!-- If you have one subscription key, you can add it here to use the service -->
+
+
+    <string name="primaryKey">226da5dee09548dfad1cb71c5067e824</string>
+    <string name="secondaryKey">1869aa92e39f4ff68c5fff6bb118ee8d</string>
+    <string name="add_subscription_key_tip_title">Subscription Key is Needed</string>
+    <string name="subscription_key">b0379f59fd4349898e5829c9953b27d7</string>
+    <string name="add_subscription_key_tip">Please put your subscription key to source file \"app/res/values/strings.xml\" to enable Face API calls.</string>
+
+    <string name="luisAppID">dc6fbd19-111b-4627-9800-1dbeea158a45</string>
+    <string name="luisSubscriptionID">f7efa021dc3c4ca195deb0e6efaf8897</string>
+
+    <string name="app_name">STT by Metro Infrasys</string>
+    <string name="action_settings">Settings</string>
+</resources>
